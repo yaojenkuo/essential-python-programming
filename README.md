@@ -20,9 +20,11 @@ How much Python knowledge do I need before digging into data science?
   - What are the basic numeric operators
   - How to write a function
 - str
+  - How to print with formats
 - bool
   - What are the base logical operators
   - How to write a if-else if-else statement
+- How to convert variable types
 
 ## Data Structures
 
@@ -39,5 +41,8 @@ How much Python knowledge do I need before digging into data science?
 - How to write more functions
 
 ## Modules
+
+- Using a module
+- Creating a module
 
 ## Classes
