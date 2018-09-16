@@ -43,6 +43,5 @@ How much Python knowledge do I need before digging into data science?
 ## Modules
 
 - Using a module
-- Creating a module
 
-## Classes
+## (Optional) Classes
