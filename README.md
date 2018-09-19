@@ -12,7 +12,6 @@ How much Python knowledge do I need before digging into data science?
 - 啟動 Jupyter Notebook
 - 使用 Google Colab
 - 筆記本的基本操作
-- 練習
 
 ## 基礎 Python 語法
 
@@ -21,7 +20,9 @@ How much Python knowledge do I need before digging into data science?
 - 呼叫內建函數
 - `print()` 函數輸出
 - 寫作風格
-- 練習
+    - 變數命名原則
+    - 認識保留字與內建函數
+    - `import this`
 
 ## Python 變數型別
 
@@ -36,6 +37,9 @@ How much Python knowledge do I need before digging into data science?
 - 流程控制
 - 自訂函數
 - 練習
+    - 自訂函數計算身體質量指數 BMI
+    - 自訂函數轉換溫度量表（攝氏 - 華氏、華氏 - 攝氏）
+    - 自訂函數計算圓面積或周長
 
 ## Python 資料結構
     
@@ -48,6 +52,9 @@ How much Python knowledge do I need before digging into data science?
 - List Comprehension
 - 如何迭代：`while` 迴圈
 - 練習
+    - 自訂函數判斷輸入數字是否為質數
+    - 自訂函數模擬 1000 回擲幾次骰子可以擲出六個點數
+    - 自訂函數產生 Fibonacci 數列（`for` 與 `while`）
 
 ## Python 自訂函數
 
@@ -58,13 +65,15 @@ How much Python knowledge do I need before digging into data science?
 - `map()` 函數與 `filter()` 函數
 - 錯誤與例外
 - 練習
+    - 自訂函數計算圓形的周長與面積
+    - 自訂函數判斷輸入數列範圍中有幾個質數
 
-## Python 程式設計的進階觀念
+## （選修）Python 程式設計的進階觀念
 
-- Generators 產生器
 - 模組與套件
 - 文字與正規表達式
-- 練習
+- Generators 產生器
+- Decorators 裝飾器
 
 ## Python 與網頁資料擷取
 
@@ -74,3 +83,5 @@ How much Python knowledge do I need before digging into data science?
 - XPath Helper 簡介
 - `Selenium` 模組
 - 練習
+    - IMDB.com
+    - Yahoo! 奇摩股市
