@@ -2,46 +2,75 @@
 
 How much Python knowledge do I need before digging into data science?
 
-## Getting Started
+## 自學資源
 
-- Setting up environment
-  - [Anaconda](https://www.anaconda.com/download)
-  - [Google Colab](https://colab.research.google.com/)
-- What is a .ipynb file
-- A brief introduction to the Notebook
-- How to assing an object
-- How to add comments
-- How to get help inside a notebook
+- [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python) Chapter 1 through Chapter 8
 
-## Variable Types
+## 建置 Python 開發環境
 
-- int
-- float
-  - What are the basic numeric operators
-  - How to write a function
-- str
-  - How to print with formats
-- bool
-  - What are the base logical operators
-  - How to write a if-else if-else statement
-- How to convert variable types
+- 下載與安裝 Anaconda
+- 啟動 Jupyter Notebook
+- 使用 Google Colab
+- 筆記本的基本操作
+- 練習
 
-## Data Structures
+## 基礎 Python 語法
 
-- How to create / index / slice
-  - list
-  - tuple
-  - dict
-  - set
-- How to iterate through iterables
-  - for loop
-  - list comprehension
-  - zip function
-  - while loop
-- How to write more functions
+- 指派物件
+- 撰寫註解
+- 呼叫內建函數
+- `print()` 函數輸出
+- 寫作風格
+- 練習
 
-## Modules
+## Python 變數型別
 
-- Using a module
+- `type()` 函數查詢
+- 整數
+- 浮點數
+- 數值運算符號
+- 文字
+- 格式化輸出 `.format()` 方法介紹
+- 布林
+- 布林運算符號
+- 流程控制
+- 自訂函數
+- 練習
 
-## (Optional) Classes
+## Python 資料結構
+    
+- 如何建立、索引與切割 `list`
+- 如何建立、索引與切割 `tuple`
+- 如何建立、索引與切割 `set`
+- 如何建立、索引與切割 `dict`
+- 如何迭代：`for` 迴圈
+- `zip()` 函數與 `enumerate()` 函數
+- List Comprehension
+- 如何迭代：`while` 迴圈
+- 練習
+
+## Python 自訂函數
+
+- 預設參數
+- `*args` 與 `*kwargs`
+- 多個輸入與輸出
+- `lambda` 匿名函數
+- `map()` 函數與 `filter()` 函數
+- 錯誤與例外
+- 練習
+
+## Python 程式設計的進階觀念
+
+- Generators 產生器
+- 模組與套件
+- 文字與正規表達式
+- 練習
+
+## Python 與網頁資料擷取
+
+- `requests` 模組與 `json` 模組
+- SelectorGadget 簡介
+- `PyQuery` 模組
+- XPath Helper 簡介
+- `Selenium` 模組
+- 練習
